@@ -6,6 +6,7 @@
     <meta name="theme-color" content="#292923">
     <meta name="description" content="Portofolio dan E-CV {{ $portfolio['profile']['name'] }}, mahasiswa Sistem Informasi UBSI.">
     <title>{{ $portfolio['profile']['name'] }} — E-CV &amp; Portofolio</title>
+    {{ \Illuminate\Support\Facades\Vite::fonts() }}
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
