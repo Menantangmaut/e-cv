@@ -1,4 +1,4 @@
-<<<<<<< HEA
+<<<<<<< HEAD
 # E-CV Achmad Haitsam
 
 Portofolio satu halaman berbasis Laravel dan Blade. Konten portofolio tersedia dari `config/portfolio.php`, sehingga website tidak memerlukan login atau database untuk menampilkan halaman.
